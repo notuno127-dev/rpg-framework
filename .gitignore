@@ -1,0 +1,28 @@
+# CMake build directories
+build/
+out/
+
+# Visual Studio
+.vs/
+
+# VS Code private settings
+.vscode/
+
+# CMake generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+compile_commands.json
+
+# Compiled files
+*.exe
+*.dll
+*.lib
+*.obj
+*.pdb
+*.ilk
+
+# Operating system
+.DS_Store
+Thumbs.db
+desktop.ini
